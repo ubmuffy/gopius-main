@@ -1,0 +1,12 @@
+@media (min-width: 992px) {
+    .header-top {
+        height: 70px;
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: flex;
+        -webkit-box-align: stretch;
+        -ms-flex-align: stretch;
+        align-items: stretch;
+        background-color: #24B0B2 !important;
+     }
+}
